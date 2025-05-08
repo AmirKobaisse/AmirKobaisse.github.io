@@ -6,14 +6,14 @@ const header = {
 
 const about = {
   // all the properties are optional - can be left empty or deleted
-  name: 'John Smith',
-  role: 'Front End Engineer',
+  name: 'Amir Kobaisse',
+  role: 'Computer Programmer',
   description:
-    'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
-  resume: 'https://example.com',
+    'I’m a Computer Programming student with hands-on experience in Java, WordPress, and web development. I’ve built full-stack academic projects using Servlets, JSP, and MySQL, and developed a live WordPress site for an organization with dynamic event features and admin-only tools. I’m passionate about building clean, user-focused applications and continuously expanding my skillset in both frontend and backend development.',
+  resume: 'https://AmirKobaisse.github.io/AK_Resume_CP.pdf',
   social: {
-    linkedin: 'https://linkedin.com',
-    github: 'https://github.com',
+    linkedin: 'https://linkedin.com/in/amirkoubaissey-a460ba322/',
+    github: 'https://github.com/AmirKobaisse',
   },
 }
 
@@ -49,18 +49,18 @@ const projects = [
 const skills = [
   // skills can be added or removed
   // if there are no skills, Skills section won't show up
+  'Java',
+  'Python',
   'HTML',
   'CSS',
   'JavaScript',
-  'TypeScript',
-  'React',
-  'Redux',
-  'SASS',
-  'Material UI',
+  'PHP',
+  'Dart',
+  'WordPress',
+  'MySQL',
+  'JSP',
+  'Linux',
   'Git',
-  'CI/CD',
-  'Jest',
-  'Enzyme',
 ]
 
 const contact = {
