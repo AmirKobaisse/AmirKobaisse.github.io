@@ -37,12 +37,12 @@ const projects = [
     livePreview: 'https://github.com/AmirKobaisse/CrudeTrack.git',
   },
   {
-    name: 'Project 3',
+    name: 'Flutter To-Do Web',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'A lightweight and intuitive task management web app built with Flutter. Users can quickly add tasks via a top input bar and manage them in a numbered list. Tasks can be deleted through a long-press action with confirmation, offering a simple yet effective way to organize daily to-dos directly in the browser.',
+    stack: ['Flutter (Web)', 'Dart', 'Material Design'],
+    sourceCode: 'https://github.com/AmirKobaisse/flutter-todo-web',
+    livePreview: 'https://AmirKobaisse.github.io/flutter-todo-web/',
   },
 ]
 
