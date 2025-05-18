@@ -21,20 +21,20 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'Project 1',
+    name: 'Car Dealership Desktop App (Flutter)',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'AutoManager is a desktop-based Flutter application designed to manage the operations of a car dealership through a clean, button-driven interface. Built with Dart and powered by a local SQLite database using sqflite_common_ffi, the app features dedicated sections for managing customers, vehicles, dealerships, and sales. Each section supports full CRUD functionality, enabling users to view, add, update, and delete records with ease. With intuitive navigation, form-based input, and persistent local storage, AutoManager showcases efficient Flutter development and structured application design tailored for real-world business use cases.',
+    stack: ['Flutter', 'Dart', 'sqflite_common_ffi (SQLite)', 'Material Design', 'Desktop (Windows/Linux/MacOS) Runtime'],
+    sourceCode: 'https://github.com/AmirKobaisse/automanger-car-dealership.git',
+    livePreview: 'https://github.com/AmirKobaisse/automanger-car-dealership.git',
   },
   {
-    name: 'Project 2',
+    name: 'Crude Run Weekly Data Manager',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'A terminal-based Python 3 application that manages and analyzes weekly crude oil processing statistics. The program connects to a structured database and offers an interactive, menu-driven interface for displaying, searching, adding, updating, and sorting records. Built using the Model-View-Controller (MVC) architecture to separate concerns between presentation, business logic, and data access, this project demonstrates practical CRUD operations, modular code organization, and database integration.',
+    stack: ['Python 3', 'MySQL', 'VS Code', 'Modular Architecture (MVC-like)', 'Terminal-based UI'],
+    sourceCode: 'https://github.com/AmirKobaisse/CrudeTrack.git',
+    livePreview: 'https://github.com/AmirKobaisse/CrudeTrack.git',
   },
   {
     name: 'Project 3',
