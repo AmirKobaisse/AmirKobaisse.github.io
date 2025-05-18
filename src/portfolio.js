@@ -21,6 +21,14 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
+    name: 'Flutter To-Do Web',
+    description:
+      'A lightweight and intuitive task management web app built with Flutter. Users can quickly add tasks via a top input bar and manage them in a numbered list. Tasks can be deleted through a long-press action with confirmation, offering a simple yet effective way to organize daily to-dos directly in the browser.',
+    stack: ['Flutter (Web)', 'Dart', 'Material Design'],
+    sourceCode: 'https://github.com/AmirKobaisse/flutter-todo-web',
+    livePreview: 'https://AmirKobaisse.github.io/flutter-todo-web/',
+  },
+  {
     name: 'Car Dealership Desktop App (Flutter)',
     description:
       'AutoManager is a desktop-based Flutter application designed to manage the operations of a car dealership through a clean, button-driven interface. Built with Dart and powered by a local SQLite database using sqflite_common_ffi, the app features dedicated sections for managing customers, vehicles, dealerships, and sales. Each section supports full CRUD functionality, enabling users to view, add, update, and delete records with ease. With intuitive navigation, form-based input, and persistent local storage, AutoManager showcases efficient Flutter development and structured application design tailored for real-world business use cases.',
@@ -35,14 +43,6 @@ const projects = [
     stack: ['Python 3', 'MySQL', 'VS Code', 'Modular Architecture (MVC-like)', 'Terminal-based UI'],
     sourceCode: 'https://github.com/AmirKobaisse/CrudeTrack.git',
     livePreview: 'https://github.com/AmirKobaisse/CrudeTrack.git',
-  },
-  {
-    name: 'Flutter To-Do Web',
-    description:
-      'A lightweight and intuitive task management web app built with Flutter. Users can quickly add tasks via a top input bar and manage them in a numbered list. Tasks can be deleted through a long-press action with confirmation, offering a simple yet effective way to organize daily to-dos directly in the browser.',
-    stack: ['Flutter (Web)', 'Dart', 'Material Design'],
-    sourceCode: 'https://github.com/AmirKobaisse/flutter-todo-web',
-    livePreview: 'https://AmirKobaisse.github.io/flutter-todo-web/',
   },
 ]
 
