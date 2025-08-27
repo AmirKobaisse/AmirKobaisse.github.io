@@ -20,6 +20,16 @@ const about = {
 const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
+
+  {
+    name: 'Mango’s Shawarma Digital Menu (Python)',
+    description:
+      'A digital restaurant menu system developed for Mango’s Shawarma, designed to be accessed by customers via QR code at each table. Built using Python with an object-oriented class-based structure to manage the website layout and menu categories, the system ensures clean code organization and scalability. The menu includes shawarma wraps, skewer wraps, falafel, platters, fried chicken, fruit salads, and fresh fruit drinks. This project highlights the use of Python classes to structure front-end content dynamically while keeping the design user-friendly and responsive.',
+    stack: ['Python', 'HTML', 'CSS', 'Object-Oriented Programming (Classes)', 'Responsive Design'],
+    sourceCode: 'https://github.com/AmirKobaisse/mango-cafe-menu.git',
+    livePreview: 'https://amirkobaisse.github.io/mango-cafe-menu/',
+  },
+
   {
     name: 'Flutter To-Do Web',
     description:
@@ -27,14 +37,6 @@ const projects = [
     stack: ['Flutter (Web)', 'Dart', 'Material Design'],
     sourceCode: 'https://github.com/AmirKobaisse/flutter-todo-web',
     livePreview: 'https://AmirKobaisse.github.io/flutter-todo-web/',
-  },
-  {
-    name: 'Car Dealership Desktop App (Flutter)',
-    description:
-      'AutoManager is a desktop-based Flutter application designed to manage the operations of a car dealership through a clean, button-driven interface. Built with Dart and powered by a local SQLite database using sqflite_common_ffi, the app features dedicated sections for managing customers, vehicles, dealerships, and sales. Each section supports full CRUD functionality, enabling users to view, add, update, and delete records with ease. With intuitive navigation, form-based input, and persistent local storage, AutoManager showcases efficient Flutter development and structured application design tailored for real-world business use cases.',
-    stack: ['Flutter', 'Dart', 'sqflite_common_ffi (SQLite)', 'Material Design', 'Desktop (Windows/Linux/MacOS) Runtime'],
-    sourceCode: 'https://github.com/AmirKobaisse/automanger-car-dealership.git',
-    livePreview: 'https://github.com/AmirKobaisse/automanger-car-dealership.git',
   },
   {
     name: 'Crude Run Weekly Data Manager',
