@@ -4,16 +4,38 @@
 
 [Live Demo](https://rjshkhr.github.io/cleanfolio)
 
+## Overview
+This repository contains my personal developer portfolio website. The portfolio showcases my programming projects, technical skills, and hands-on development experience across web and software development.
+
+The goal of this site is to provide a clean and simple platform where visitors, recruiters, and collaborators can explore my work and learn more about my capabilities as a developer.
+
+---
+## Features
+- Clean and responsive design  
+- Project showcase with descriptions and technologies used  
+- Live project previews  
+- Direct access to source code  
+- Skills and contact information section  
+
+---
+## Viewing Projects
+Each project card includes two main actions:
+
+- **Live Preview** — Click the arrow icon at the bottom of a project to open and interact with the live deployed version.
+- **Source Code** — Click the GitHub icon to view the project repository and explore the implementation.
+
+---
+
 ## Instructions
 
 ### Setup
 
 ```shell
-git clone https://github.com/rjshkhr/cleanfolio
-cd cleanfolio
+git clone https://github.com/AmirKobaisse/AmirKobaisse.github.io
+cd AmirKobaisse.github.io
 ```
 
-If you use [nvm](https://github.com/nvm-sh/nvm) or [fnm](https://github.com/Schniz/fnm), execute:
+If you use nvm or fnm, execute:
 
 ```shell
 nvm install
@@ -34,31 +56,3 @@ yarn
 yarn start
 ```
 
-### How to Use
-
-- Open the `public/index.html` file and replace:
-
-`<title>John Smith</title>` with `<title>Your Name</title>`.
-
-- Open the `src/portfolio.js` file and make the necessary changes.
-
-### Deployment
-
-- In the `package.json` file, update:
-
-`"homepage": "https://rjshkhr.github.io/cleanfolio"`
-
-to `"homepage": "https://yourusername.github.io"`.
-
-- Push the changes to your repository.
-
-- To build and deploy, run the following commands:
-
-```shell
-yarn build
-yarn deploy
-```
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
