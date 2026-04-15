@@ -23,7 +23,7 @@ const projects = [
   {
     name: 'Mango’s Shawarma Digital Menu (Python)',
     description:
-      'test test A digital restaurant menu system developed for Mango’s Shawarma, designed to be accessed by customers via QR code at each table. Built using Python with an object-oriented class-based structure to manage the website layout and menu categories, the system ensures clean code organization and scalability. The menu includes shawarma wraps, skewer wraps, falafel, platters, fried chicken, fruit salads, and fresh fruit drinks. This project highlights the use of Python classes to structure front-end content dynamically while keeping the design user-friendly and responsive.',
+      'A digital restaurant menu system developed for Mango’s Shawarma, designed to be accessed by customers via QR code at each table. Built using Python with an object-oriented class-based structure to manage the website layout and menu categories, the system ensures clean code organization and scalability. The menu includes shawarma wraps, skewer wraps, falafel, platters, fried chicken, fruit salads, and fresh fruit drinks. This project highlights the use of Python classes to structure front-end content dynamically while keeping the design user-friendly and responsive.',
     stack: ['Python', 'HTML', 'CSS', 'Object-Oriented Programming (Classes)', 'Responsive Design'],
     sourceCode: 'https://github.com/AmirKobaisse/mango-cafe-menu.git',
     livePreview: 'https://amirkobaisse.github.io/mango-cafe-menu/',
