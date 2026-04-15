@@ -50,7 +50,7 @@ const projects = [
   description:
     'Configured and optimized a Wix-based point-of-sale (POS) system for a barbershop to enable accurate employee sales tracking and commission calculation. Diagnosed and resolved transaction attribution issues, configured staff roles and permissions, and implemented PIN-based login authentication for efficient user switching. Validated “Sales by Staff” reporting through testing across multiple user accounts and ensured data accuracy. Streamlined reporting access and trained staff on system usage and analytics features. Resulted in automated commission tracking, eliminating manual calculations and improving operational transparency and efficiency.',
   stack: ['Wix POS', 'System Configuration', 'User Access Control', 'Business Operations', 'Reporting & Analytics'],
-  sourceCode: '',
+  sourceCode: 'https://github.com/AmirKobaisse/wix-pos-staff-tracking.git',
   livePreview: '',
   },
 ]
