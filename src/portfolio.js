@@ -11,7 +11,7 @@ const about = {
   description:
     'I’m a Computer Programmer with hands-on experience in Java, WordPress, and web development. I’ve built full-stack academic projects using Servlets, JSP, and MySQL, and developed a live WordPress site for an organization with dynamic event features and admin-only tools. I’m passionate about building clean, user-focused applications and continuously expanding my skillset in both frontend and backend development.',
   social: {
-    linkedin: 'https://linkedin.com/in/amirkoubaissey-a460ba322/',
+    linkedin: 'https://www.linkedin.com/in/amirkob/',
     github: 'https://github.com/AmirKobaisse',
   },
 }
